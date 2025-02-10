@@ -1,1 +1,3 @@
 WIDTH, HEIGHT = 1280, 720
+screen_size = WIDTH, HEIGHT
+SCALE = 1
